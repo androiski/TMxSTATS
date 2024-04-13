@@ -1,0 +1,11 @@
+[meta]
+name = "TMxSTATS"
+author = "androiski, mattpopa"
+category = "Overlay"
+
+version = "0.0.1"
+
+[script]
+dependencies = ["MLHook", "MLFeedRaceData"]
+optional_dependencies = [ "NadeoServices" , "ChampionMedals"]
+timeout = 5000
